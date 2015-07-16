@@ -1,0 +1,216 @@
+
+p{
+
+    line-height: 45px;
+    text-align:left;
+
+}
+
+.One  {
+
+    background: url("../images/OneBg.png");
+    height: 800px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    text-align: center;
+    margin: 0;
+
+}
+
+.One img{
+    position: relative;
+    top:150px;
+
+}
+
+.One h1{
+     position: relative;
+     top: 150px;
+     font-size: 56px;
+     color: #b62724;
+
+ }
+
+
+.One p{
+    position: relative;
+    top: 130px;
+    font-size: 28px;
+    color: gray;
+    left:500px;
+
+}
+
+
+.Two  {
+    background: url("../images/TwoBg.png");
+    height: 768px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+
+    text-align: center;
+    margin: 0;
+}
+
+
+div.fourMembers{
+    height: 600px;
+    width: 1280px;
+    position: relative;
+    top: 120px;
+    left: 150px;
+}
+
+div.fourMembers > div{
+    float: left;
+
+    margin: 30px;
+
+    text-align: center;
+
+}
+
+
+.TwoText {
+    background: url("../images/TwoTextBg.png");
+    width: 200px;
+    height: 210px;
+
+}
+
+
+.TwoText span{
+
+    position: relative;
+    top: 44px;
+
+
+}
+
+.TwoText span p{
+    font-size: 40px;
+    color: black;
+    text-align: center;
+}
+
+
+
+p.two{
+    opacity: 0;
+    position: relative;
+    left: 1024px;
+}
+
+
+p{
+    position: relative;
+    color: white;
+
+}
+
+.title-anim2{
+    opacity: 1!important;
+    -webkit-transition : all 2s;
+    -moz-transition : all 2s;
+    -ms-transition : all 2s;
+    transition : all 2s;
+}
+
+.content-anim{
+    left: 0;
+    -webkit-transition : all 1s;
+    -moz-transition : all 1s;
+    -ms-transition : all 1s;
+    transition : all 1s;
+}
+
+p.two{
+    color: red;
+}
+
+.IntroduuceSelf{
+    font-size: 28px;
+
+
+}
+
+
+
+
+div.Three{
+    background: url("../images/ThreeBg.png");
+    height: 768px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    text-align: center;
+    margin: 0;
+}
+
+
+.Text{
+    position: relative;
+    left: 160px;
+    top:400px
+}
+
+.AboutSelf {
+    position: relative;
+    left: 700px;
+    top:-200px;
+}
+p{
+
+    font-size: 36px;
+}
+
+.Text2{
+    position: relative;
+    left: 200px;
+    top:140px
+}
+
+.AboutSelf2 {
+    position: relative;
+    left:750px;
+    top:100px;
+}
+p{
+
+    font-size: 36px;
+}
+
+
+
+
+div.Four{
+     background: url("../images/FourBg.png");
+     height: 768px;
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+     background-position: center center;
+     text-align: center;
+     margin: 0;
+ }
+
+div.Five{
+     background: url("../images/FiveBg.png");
+     height: 768px;
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+     background-position: center center;
+     text-align: center;
+     margin: 0;
+ }
+
+div.Six{
+    background: url("../images/SixBg.png");
+    height: 768px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    text-align: center;
+    margin: 0;
+}
